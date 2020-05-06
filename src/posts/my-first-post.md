@@ -5,4 +5,8 @@ tags:
 - test
 
 ---
-# test my first post![](/images/demo-image-2.jpg)
+# test my first post
+
+_hi **hi**_
+
+# ![](/images/demo-image-2.jpg)
