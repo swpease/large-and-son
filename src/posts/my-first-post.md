@@ -5,4 +5,4 @@ tags:
 - test
 
 ---
-# test my first post
+# test my first post![](/images/demo-image-2.jpg)
