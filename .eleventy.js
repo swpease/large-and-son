@@ -34,6 +34,7 @@ module.exports = function(config) {
   config.addPassthroughCopy('src/admin/config.yml');
   config.addPassthroughCopy('src/admin/previews.js');
   config.addPassthroughCopy('src/admin/*.html');
+  config.addPassthroughCopy('src/static/admin/*');
   config.addPassthroughCopy('node_modules/nunjucks/browser/nunjucks-slim.js');
 
   const now = new Date();
