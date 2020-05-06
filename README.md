@@ -12,15 +12,15 @@ Get started now by **[deploying Hylia to Netlify.][deploy-to-netlify]**
 
 Hylia version 0.5.1 features:
 
-✍️ A pre-configured [Forestry CMS](https://forestry.io/) setup
-🎨 Customisable design tokens to make it your own
-🌍 Customisable global data and navigation
-📂 Tags and tag archives
-✅ Progressively enhanced, semantic and accessible
-🎈 _Super_ lightweight front-end
-🚰 Sass powered CSS system with utility class generator
-⚙️ Service worker that caches pages so people can read your articles offline
-🚀 An RSS feed for your posts
+  - A pre-configured [Forestry CMS](https://forestry.io/) setup
+  - Customisable design tokens to make it your own
+  - Customisable global data and navigation
+  - Tags and tag archives
+  - Progressively enhanced, semantic and accessible
+  - _Super_ lightweight front-end
+  - Sass powered CSS system with utility class generator
+  - Service worker that caches pages so people can read your articles offline
+  -An RSS feed for your posts
 
 ## Roadmap
 
