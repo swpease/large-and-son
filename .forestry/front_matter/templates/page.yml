@@ -8,5 +8,13 @@ fields:
     required: false
   label: title
   description: Title of the page.
+- name: tag
+  type: text
+  config:
+    required: true
+  hidden: true
+  label: tag
+  description: For internal use.
+  default: _page
 pages:
 - src/pages/about.md
