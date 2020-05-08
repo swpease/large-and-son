@@ -1,14 +1,9 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Welcome to Large & Son
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry
-CMS](https://forestry.io/) pre-configured, so that you can one-click install a
-progressive, accessible blog in minutes. It also gives you a well organised
-starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/dirtyf/hylia)
+Large & Son is Port Wenn's premiere plumbing solution. Don't hesitate to call us with any plumbing -- or other household -- concerns.
